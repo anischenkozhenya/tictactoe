@@ -8,3 +8,13 @@ C:\Users\ZEROmANCHER\source\repos\tictactoegame\tictactoegame\obj\Debug\tictacto
 C:\Users\ZEROmANCHER\source\repos\tictactoegame\tictactoegame\obj\Debug\tictactoegame.csproj.CoreCompileInputs.cache
 C:\Users\ZEROmANCHER\source\repos\tictactoegame\tictactoegame\obj\Debug\tictactoegame.exe
 C:\Users\ZEROmANCHER\source\repos\tictactoegame\tictactoegame\obj\Debug\tictactoegame.pdb
+E:\tictac\tictactoe\tictactoegame\tictactoegame\obj\Debug\tictactoegame.csprojAssemblyReference.cache
+E:\tictac\tictactoe\tictactoegame\tictactoegame\obj\Debug\tictactoegame.Form1.resources
+E:\tictac\tictactoe\tictactoegame\tictactoegame\obj\Debug\tictactoegame.Properties.Resources.resources
+E:\tictac\tictactoe\tictactoegame\tictactoegame\obj\Debug\tictactoegame.csproj.GenerateResource.cache
+E:\tictac\tictactoe\tictactoegame\tictactoegame\obj\Debug\tictactoegame.csproj.CoreCompileInputs.cache
+E:\tictac\tictactoe\tictactoegame\tictactoegame\obj\Debug\tictactoegame.exe
+E:\tictac\tictactoe\tictactoegame\tictactoegame\obj\Debug\tictactoegame.pdb
+E:\tictac\tictactoe\tictactoegame\tictactoegame\bin\Debug\tictactoegame.exe.config
+E:\tictac\tictactoe\tictactoegame\tictactoegame\bin\Debug\tictactoegame.exe
+E:\tictac\tictactoe\tictactoegame\tictactoegame\bin\Debug\tictactoegame.pdb
